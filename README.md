@@ -1,4 +1,4 @@
-## Hi there 👋 I’m an aspiring software developer and Computer Science student at UFRGS. I’m passionate about analyzing problems and using my creativity and artistic aspirations to create and solve problems and develop projects. I’m especially interested in combining my biggest passion — music — with technology and programming.
+## Hi there 👋 I’m an aspiring software developer and Computer Science student at [UFRGS](https://www.ufrgs.br/site/). I’m passionate about analyzing problems and using my creativity and artistic aspirations to create and solve problems and develop projects. I’m especially interested in combining my biggest passion — music — with technology and programming.
 
 - 🌱 I’m currently learning C
 
